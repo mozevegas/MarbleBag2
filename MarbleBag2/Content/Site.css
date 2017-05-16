@@ -22,3 +22,21 @@ select,
 textarea {
     max-width: 280px;
 }
+
+h1 {
+    font-family: 'Bowlby One', cursive;
+}
+
+body, p, .jumbotron {
+    font-family: 'Bree Serif', serif;
+    font-size: 25px;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 150px;
+}
+
+.jumbotron {
+    background-color: skyblue;
+}
